@@ -1,0 +1,21 @@
+JavaScript Errors
+The try statement defines a code block to run (to try).
+The catch statement defines a code block to handle any error.
+The finally statement defines a code block to run regardless of the result.
+The throw statement defines a custom error.
+
+what is a library in software development?
+
+The difference between libraries and frameworks
+The concept behind frameworks and libraries is to provide reusable code that you can use to perform everyday tasks so that developers don’t have to write all of the code from scratch for every project.
+
+Frameworks and libraries are designed to be modular and reusable, meaning they can be used in multiple projects without needing to rewrite the code. This can save developers a significant amount of time and effort and also help to improve the reliability and maintainability of the code.
+
+In addition to providing reusable code, frameworks and libraries can offer a set of best practices and conventions for structuring and organizing code, which can help developers build more scalable and maintainable applications.
+
+However, there are some differences that you need to understand as you start writing code, which I will cover in this article.
+
+What are Frameworks?
+A framework is a set of libraries or tools that provide a structure for building applications. It typically includes code libraries, templates, and guidelines for how to use the libraries to develop applications.
+
+Frameworks can be useful for developers because they provide a standardized way to build and organize code, which can help streamline the development process and make it easier to build and maintain complex applications. They can also help developers to build applications that are more reliable and scalable, as the framework provides a set of best practices and conventions to follow.
